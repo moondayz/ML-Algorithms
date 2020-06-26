@@ -1,8 +1,10 @@
 # ML-Algorithms
-Implementation of various Machine Learning algorithms
+Implementation of various Machine Learning algorithms with Python
 
 
 CART ALGORITHM
+============================================
+
 Create class PJ_Cart_Tree that can be used like in example:
 
 ============================================
